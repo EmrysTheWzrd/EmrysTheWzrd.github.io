@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome, check this out!
+Welcome, check this out.
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /

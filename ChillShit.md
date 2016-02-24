@@ -4,7 +4,6 @@ title: All That Jazz
 permalink: /ChillShit/
 ---
 
-HEYHEYHEY
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
